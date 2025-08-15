@@ -9,54 +9,19 @@
 - 邮箱：xxx@example.com
 - GitHub：[RoseLi](https://github.com/你的用户名)
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style>    
-body {      
-font-family: Arial, sans-serif;      
-text-align: center;      
-margin: 0;      
-padding: 0;      
-background: #f9f9f9;
-    }    
-h1 {      
-padding: 20px;      
-color: #333;
-    }
-    .tableauPlaceholder {      
-margin: auto;      
-max-width: 1200px;
-    }
-  </style>
-</head>
-<body>
-  <h1>我的 Tableau 图表</h1>
-  <div class='tableauPlaceholder' id='tableauViz' style='position: relative'>
-    <noscript>
-      <a href='#'>
-        <img alt='工作表 2'              
-src='https://public.tableau.com/static/images/_1/_17552694587720/2/1.png'              
-style='border: none' />
-      </a>
-    </noscript>
-    <object class='tableauViz' style='display:none;'>
-      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-      <param name='embed_code_version' value='3' />
-      <param name='site_root' value='' />
-      <param name='name' value='_17552694587720/2' />
-      <param name='tabs' value='no' />
-      <param name='toolbar' value='yes' />
-      <param name='static_image' value='https://public.tableau.com/static/images/_1/_17552694587720/2/1.png' />
-      <param name='animate_transition' value='yes' />
-      <param name='display_static_image' value='yes' />
-      <param name='display_spinner' value='yes' />
-      <param name='display_overlay' value='yes' />
-      <param name='display_count' value='yes' />
-      <param name='language' value='zh-CN' />
-    </object>
-  </div>
-</body>
-</html>
+<div class='tableauPlaceholder' id='viz1755285096948' style='position: relative'><noscript><a href='#'>
+  <img alt='团播绩效制度数据来源：快手娱乐公会团播政策（自2025年1月1日起生效） ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_17552701795520&#47;2&#47;1_rss.png' style='border: none' /></a></noscript>
+  <object class='tableauViz'  style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+    <param name='embed_code_version' value='3' /> 
+    <param name='site_root' value='' />
+    <param name='name' value='_17552701795520&#47;2' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_17552701795520&#47;2&#47;1.png' /> 
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='zh-CN' />
