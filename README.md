@@ -9,8 +9,7 @@
 - 邮箱：xxx@example.com
 - GitHub：[RoseLi](https://github.com/你的用户名)
 
-<div class='tableauPlaceholder' id='viz1755285096948' style='position: relative'><noscript><a href='#'>
-  <img alt='团播绩效制度数据来源：快手娱乐公会团播政策（自2025年1月1日起生效） 
+  <img alt='团播绩效制度数据来源：快手娱乐公会团播政策（自2025年1月1日起生效） ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_17552701795520&#47;2&#47;1_rss.png' style='border: none' /></a></noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
     <param name='embed_code_version' value='3' /> 
