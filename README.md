@@ -14,34 +14,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>我的 Tableau 图表</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 0;
-      padding: 0;
-      background: #f9f9f9;
+  <style>    
+body {      
+font-family: Arial, sans-serif;      
+text-align: center;      
+margin: 0;      
+padding: 0;      
+background: #f9f9f9;
+    }    
+h1 {      
+padding: 20px;      
+color: #333;
     }
-    h1 {
-      padding: 20px;
-      color: #333;
-    }
-    .tableauPlaceholder {
-      margin: auto;
-      max-width: 1200px;
+    .tableauPlaceholder {      
+margin: auto;      
+max-width: 1200px;
     }
   </style>
 </head>
 <body>
   <h1>我的 Tableau 图表</h1>
-
   <div class='tableauPlaceholder' id='tableauViz' style='position: relative'>
     <noscript>
       <a href='#'>
-        <img alt='工作表 2' 
-             src='https://public.tableau.com/static/images/_1/_17552694587720/2/1.png' 
-             style='border: none' />
+        <img alt='工作表 2'              
+src='https://public.tableau.com/static/images/_1/_17552694587720/2/1.png'              
+style='border: none' />
       </a>
     </noscript>
     <object class='tableauViz' style='display:none;'>
@@ -60,16 +58,5 @@
       <param name='language' value='zh-CN' />
     </object>
   </div>
-
-  <script type='text/javascript'>
-    var divElement = document.getElementById('tableauViz');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-  </script>
-
 </body>
 </html>
